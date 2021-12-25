@@ -1,0 +1,5 @@
+C:/Users/Admin/source/repos/checkers/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/source/repos/checkers/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/source/repos/checkers/out/build/x64-Debug/checkers/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/source/repos/checkers/out/build/x64-Debug/checkers/CMakeFiles/checkers.dir
+C:/Users/Admin/source/repos/checkers/out/build/x64-Debug/checkers/CMakeFiles/edit_cache.dir
